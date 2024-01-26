@@ -20,7 +20,7 @@
 
 ## Skill Set
 
-[![Skill Set](https://skillicons.dev/icons?i=java,js,html,css,soldity,py)](https://skillicons.dev)
+[![Skill Set](https://skillicons.dev/icons?i=java,js,html,css,py)](https://skillicons.dev)
 
 ## What I Offer
 
