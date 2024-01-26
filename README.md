@@ -1,8 +1,6 @@
 # About Me
 
-<img src="https://cdn.discordapp.com/attachments/1198744232228311112/1198847980552335390/IMG_4890-removebg-preview.png" width="100px" alt="Your Logo"> <!-- Adjust 'width' as needed -->
-
-👋 Hi there! I'm a passionate technologist committed to being at the forefront of technological innovation. My journey has been marked by a relentless pursuit of excellence in **Minecraft Plugin Development**, **Website Development**, **AI Solutions**, **NFT Development**, and **Discord Bot Development**. Blending creativity with cutting-edge technology to produce innovative outcomes.
+👋 Hi there I'm Cosmix! I'm a passionate technologist committed to being at the forefront of technological innovation. My journey has been marked by a relentless pursuit of excellence in **Minecraft Plugin Development**, **Website Development**, **AI Solutions**, **NFT Development**, and **Discord Bot Development**. Blending creativity with cutting-edge technology to produce innovative outcomes.
 
 ## Notable Clients and Projects
 
@@ -22,7 +20,7 @@
 
 ## Skill Set
 
-<img src="https://skillicons.dev/icons?i=java" width="30px" alt="Java"> <img src="https://skillicons.dev/icons?i=js" width="30px" alt="JavaScript"><img src="https://skillicons.dev/icons?i=css,html" width="30px" alt="CSS & HTML"><img src="https://skillicons.dev/icons?i=solidity" width="30px" alt="Solidity">
+[![Skill Set](https://skillicons.dev/icons?i=java,js,html,css,soldity)](https://skillicons.dev)
 
 ## What I Offer
 
