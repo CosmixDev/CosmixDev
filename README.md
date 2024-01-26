@@ -22,10 +22,7 @@
 
 ## Skill Set
 
-<img src="https://skillicons.dev/icons?i=java" width="30px" alt="Java">
-<img src="https://skillicons.dev/icons?i=js" width="30px" alt="JavaScript">
-<img src="https://skillicons.dev/icons?i=css,html" width="30px" alt="CSS & HTML">
-<img src="https://skillicons.dev/icons?i=solidity" width="30px" alt="Solidity">
+<img src="https://skillicons.dev/icons?i=java" width="30px" alt="Java"> <img src="https://skillicons.dev/icons?i=js" width="30px" alt="JavaScript"><img src="https://skillicons.dev/icons?i=css,html" width="30px" alt="CSS & HTML"><img src="https://skillicons.dev/icons?i=solidity" width="30px" alt="Solidity">
 
 ## What I Offer
 
